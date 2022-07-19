@@ -1,29 +1,9 @@
-# Py6CoreProject №1
-![command bot](https://img.shields.io/pypi/pyversions/pyth?color=orange&label=Command%20Bot&logo=R)
-![lic](https://img.shields.io/pypi/l/clu?color=orange&label=Py6Core%20Group%E2%84%961%20License&logo=R)
-![bot work](https://img.shields.io/github/commit-activity/m/Roman-Braneshty/Py6CoreProject-1?color=orange&label=Bot%20Work&logo=R)
-![start project](https://img.shields.io/date/1655672400?color=orange&label=start%20project)
-## Group№1
+HW2
 
-### Roles:
-___
-1) **Team Lead** - **[Роман Бранешты](https://github.com/Roman-Braneshty)** 
-2) **Scrum Master** - **[Екатерина Климентенко](https://github.com/klymentenkokate)**
-3) **Technical Guide** - **[Александр Романюк](https://github.com/romaniuk-o)**
+Завдання виконано в файлах Adress_book.pу та в  Notate_book.py
 
-### Description of the bot:
-Бот "Cli_assistant" создан для записи,редактирования и удаления\
-контактов, а также отдельных заметок. \
-Теперь ваше пользование адресной книгой станет ещё проще и продуктивнее.\
-Вы не забудете свои действия в адресной книге, ведь\
-с помощью заметок можете записывать каждую проделанную\
-работу и помечать их ~~тегами~~ ключевыми словами.
 
-### Instructions for install:
-#### Install script on your pc:
-    pip install -i https://test.pypi.org/simple/ cli-assis-1teem
-#### Command for call:
-    cli_assistant
+_______________________________________________________________________________________________
 
 ### Instructions for start working with the bot:
 При запуске бота выберите с какой веткой вы хотите работать\
